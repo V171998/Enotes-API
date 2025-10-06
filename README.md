@@ -1,3 +1,5 @@
+## A backend for productivity app with user authentication, notes, and task management.
+
 ## Technology Used : -
 Spring Boot REST, JPA, AOP, Logging, Actuator, Security
 Caching, Junit & Mockito, Sonar cube,  Swagger, Schedular , git , GitHub
