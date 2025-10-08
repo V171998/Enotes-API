@@ -1,4 +1,4 @@
-## A backend for productivity app with user authentication, notes, and task management.
+## A backend for Notes app with user authentication, notes, and task management.
 
 ## Technology Used : -
 Spring Boot REST, JPA, AOP, Logging, Actuator, Security
